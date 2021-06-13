@@ -1,9 +1,9 @@
-A texteditor that allows you to edit , text and change some styles.
+A texteditor that allows you to edit text and change some styles.
 Built using express ,a NodeJS framework and javascript.
 It uses the local storage propery of your browser to save your data.
 You can search for word definition and meanings.
-There are two versions. Browser version and desktop version.
-To use the desktop app download the EasyText folder and run the EasyText.exe.
+There are two versions - Browser version and desktop version.
+
 
 
 Node packages used :-
